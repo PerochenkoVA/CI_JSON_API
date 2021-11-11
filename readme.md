@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ikam6m5bhv3xsy1j?svg=true)](https://ci.appveyor.com/project/PerochenkoVA/ci-json-api)
+
+
 Про JAR
 
 Важно: если вы работаете на Windows с Турецкой локалью и при запуске учебных приложений получаете Exception вида:
